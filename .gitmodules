@@ -1,0 +1,9 @@
+[submodule "sdks/openwrt-realtek"]
+	path = sdks/openwrt-realtek
+	url = git@github.com:ProMix0/openwrt_rtk-old-.git
+[submodule "sdks/realtek-pon"]
+	path = sdks/realtek-pon
+	url = git@github.com:ProMix0/rtl8198d-sdk.git
+[submodule "sdks/realtek-switch"]
+	path = sdks/realtek-switch
+	url = git@github.com:ProMix0/realtek-switch.git
