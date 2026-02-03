@@ -7,3 +7,6 @@
 [submodule "sdks/realtek-switch"]
 	path = sdks/realtek-switch
 	url = git@github.com:ProMix0/realtek-switch.git
+[submodule "linux318"]
+	path = sdks/linux318
+	url = git@github.com:kkynn/linux318-comment.git
