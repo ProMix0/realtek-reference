@@ -13,3 +13,6 @@
 [submodule "docs/realtek-doc"]
 	path = docs/realtek-doc
 	url = git@github.com:plappermaul/realtek-doc.git
+[submodule "sdks/bismarck-preloader"]
+	path = sdks/bismarck-preloader
+	url = git@github.com:jameywine/bismarck-preloader.git
