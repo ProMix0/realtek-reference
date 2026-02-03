@@ -10,3 +10,6 @@
 [submodule "linux318"]
 	path = sdks/linux318
 	url = git@github.com:kkynn/linux318-comment.git
+[submodule "docs/realtek-doc"]
+	path = docs/realtek-doc
+	url = git@github.com:plappermaul/realtek-doc.git
