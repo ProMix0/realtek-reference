@@ -16,3 +16,6 @@
 [submodule "sdks/bismarck-preloader"]
 	path = sdks/bismarck-preloader
 	url = git@github.com:jameywine/bismarck-preloader.git
+[submodule "sdks/RTL88xxXU"]
+	path = sdks/RTL88xxXU
+	url = git@github.com:RinCat/RTL88x2BU-Linux-Driver.git
