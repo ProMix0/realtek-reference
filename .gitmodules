@@ -19,3 +19,6 @@
 [submodule "sdks/RTL88xxXU"]
 	path = sdks/RTL88xxXU
 	url = git@github.com:RinCat/RTL88x2BU-Linux-Driver.git
+[submodule "tools/yakigani"]
+	path = tools/yakigani
+	url = git@github.com:libc0607/Yakigani.git
