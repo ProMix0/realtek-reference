@@ -22,3 +22,6 @@
 [submodule "tools/yakigani"]
 	path = tools/yakigani
 	url = git@github.com:libc0607/Yakigani.git
+[submodule "sdks/rtl-playground"]
+	path = sdks/rtl-playground
+	url = git@github.com:logicog/RTLPlayground.git
