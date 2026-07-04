@@ -25,3 +25,7 @@
 [submodule "sdks/rtl-playground"]
 	path = sdks/rtl-playground
 	url = git@github.com:logicog/RTLPlayground.git
+[submodule "tools/rtl8672-toolchain"]
+	path = tools/rtl8672-toolchain
+	url = git@github.com:infinite-monkeys/rtl8672-toolchain.git
+	branch = toolchain_snapshot
