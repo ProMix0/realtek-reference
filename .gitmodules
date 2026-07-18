@@ -29,3 +29,6 @@
 	path = tools/rtl8672-toolchain
 	url = git@github.com:infinite-monkeys/rtl8672-toolchain.git
 	branch = toolchain_snapshot
+[submodule "sdks/rtl8366ub"]
+	path = sdks/rtl8366ub
+	url = git@github.com:gl-inet/gl-rtl8366ub.git
