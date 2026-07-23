@@ -32,3 +32,7 @@
 [submodule "sdks/rtl8366ub"]
 	path = sdks/rtl8366ub
 	url = git@github.com:gl-inet/gl-rtl8366ub.git
+[submodule "sdks/switch-hacking"]
+	path = sdks/switch-hacking
+	url = git@github.com:libc0607/Realtek_switch_hacking.git
+	branch = files
