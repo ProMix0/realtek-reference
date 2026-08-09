@@ -36,3 +36,13 @@
 	path = sdks/switch-hacking
 	url = git@github.com:libc0607/Realtek_switch_hacking.git
 	branch = files
+[submodule "sdks/rtl8762"]
+	path = sdks/rtl8762
+	url = git@github.com:vido89/RTL8672.git
+[submodule "sdks/rtl8198"]
+	path = sdks/rtl8198
+	url = git@github.com:copslock/rtl9603c-rtl9607c-toolchain.git
+[submodule "sdks/rtl8186"]
+	path = sdks/rtl8186
+	url = git@github.com:yashac3/linux-rtl8186.git
+	branch = rtl8186-devel
